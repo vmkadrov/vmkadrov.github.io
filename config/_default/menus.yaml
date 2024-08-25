@@ -7,9 +7,9 @@ main:
   - name: Биография
     url: /
     weight: 10
-  # - name: Публикации
-  #   url: /#papers
-  #   weight: 11
+  - name: Публикации
+    url: /#papers
+    weight: 11
   - name: Выступления
     url: /#talks
     weight: 12
