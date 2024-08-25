@@ -31,9 +31,7 @@ sections:
           size: cover
           position: center
           parallax: false
-        
-    design:
-      columns: '1'
+
   - block: collection
     id: papers
     content:
